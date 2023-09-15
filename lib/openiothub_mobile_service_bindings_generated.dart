@@ -31,7 +31,7 @@ class OpeniothubMobileServiceBindings {
     return _Run();
   }
 
-  late final _RunPtr = (Platform.isMacOS || Platform.isIOS)?_lookup<ffi.NativeFunction<ffi.Void Function()>>('ClientRun'):
-  (Platform.isAndroid?_lookup<ffi.NativeFunction<ffi.Void Function()>>('Java_client_Client_run'):_lookup<ffi.NativeFunction<ffi.Void Function()>>('Run'));
+  late final _RunPtr = (Platform.isMacOS || Platform.isIOS)?_lookup<ffi.NativeFunction<ffi.Void Function()>>('SessionRun'):
+  (Platform.isAndroid?_lookup<ffi.NativeFunction<ffi.Void Function()>>('Java_session_Session_run'):_lookup<ffi.NativeFunction<ffi.Void Function()>>('Run'));
   late final _Run = _RunPtr.asFunction<void Function()>();
 }

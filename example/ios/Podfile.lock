@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - openiothub_mobile_service (0.0.1):
+    - Flutter
+    - OpenIoTHubMobile (= 0.0.4)
+  - OpenIoTHubMobile (0.0.4)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - openiothub_mobile_service (from `.symlinks/plugins/openiothub_mobile_service/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OpenIoTHubMobile
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  openiothub_mobile_service:
+    :path: ".symlinks/plugins/openiothub_mobile_service/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  openiothub_mobile_service: 4d875bf1ec87ad977aa4f42060d6c837d33a70cc
+  OpenIoTHubMobile: 877c0ee214fd34455ea12a278b47cf3353469fc6
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1

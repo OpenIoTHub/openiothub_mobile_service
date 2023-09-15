@@ -27,4 +27,9 @@ For OpenIoTHub mobile APP background service
 
   s.dependency 'OpenIoTHubMobile' , '0.0.4'
   s.static_framework = true
+
+#     s.preserve_paths = 'OpenIoTHubMobile.xcframework/**/*'
+#     s.xcconfig =  {'OTHER_LDFLAGS' => '-framework OpenIoTHubMobile'}
+#     s.vendored_frameworks = 'OpenIoTHubMobile.xcframework'
+#     s.libraries = "resolv.9", "resolv"
 end
