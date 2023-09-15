@@ -1,7 +1,8 @@
 name: openiothub_mobile_service
 description: For OpenIoTHub mobile APP background service
 version: 0.0.1
-homepage:
+homepage: https://github.com/OpenIoTHub/openiothub_mobile_service
+repository: https://github.com/OpenIoTHub/openiothub_mobile_service
 
 environment:
   sdk: '>=3.1.0-262.3.beta <4.0.0'
