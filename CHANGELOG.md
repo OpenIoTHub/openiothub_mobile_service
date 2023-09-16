@@ -1,3 +1,7 @@
+## 0.0.4
+
+* update windows and linux lib
+
 ## 0.0.3
 
 * add windows and linux lib
