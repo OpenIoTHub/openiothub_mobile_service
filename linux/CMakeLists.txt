@@ -15,7 +15,7 @@ project(${PROJECT_NAME} LANGUAGES CXX)
 # This list could contain prebuilt libraries, or libraries created by an
 # external build triggered from this build file.
 set(openiothub_mobile_service_bundled_libraries
-  "${CMAKE_CURRENT_SOURCE_DIR}/libs/mobile.so"
+  "${CMAKE_CURRENT_SOURCE_DIR}/libs/libmobile.so"
   # Defined in ../src/CMakeLists.txt.
   # This can be changed to accommodate different builds.
 #  $<TARGET_FILE:openiothub_mobile_service>

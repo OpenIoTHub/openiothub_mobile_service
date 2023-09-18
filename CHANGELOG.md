@@ -1,3 +1,7 @@
+## 0.0.6+1
+
+* fix linux so name
+
 ## 0.0.6
 
 * update all lib
