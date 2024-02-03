@@ -1,3 +1,7 @@
+## 0.0.7
+
+* add gateway
+
 ## 0.0.6+1
 
 * fix linux so name

@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 For OpenIoTHub mobile APP background service
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://iothub.cloud'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'OpenIoTHub' => 'yu@iotserv.com' }
 
   # This will ensure the source files in Classes/ are included in the native
   # builds of apps using this FFI plugin. Podspec does not support relative
@@ -25,7 +25,7 @@ For OpenIoTHub mobile APP background service
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.swift_version = '5.0'
 
-  s.dependency 'OpenIoTHubMobile' , '0.0.6'
+  s.dependency 'OpenIoTHubMobile' , '0.0.7'
   s.static_framework = true
 
 #     s.preserve_paths = 'OpenIoTHubMobile.xcframework/**/*'
