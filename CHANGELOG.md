@@ -1,3 +1,7 @@
+## 0.0.7+1
+
+* iOS mini version
+
 ## 0.0.7
 
 * add gateway
