@@ -1,6 +1,6 @@
 name: openiothub_mobile_service
 description: For OpenIoTHub mobile APP background service
-version: 0.0.7+5
+version: 0.0.7+6
 homepage: https://github.com/OpenIoTHub/openiothub_mobile_service
 repository: https://github.com/OpenIoTHub/openiothub_mobile_service
 

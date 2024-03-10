@@ -1,3 +1,7 @@
+## 0.0.7+6
+
+* linux so and Windows dll
+
 ## 0.0.7+5
 
 * iOS macOS version
