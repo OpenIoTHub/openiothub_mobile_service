@@ -1,3 +1,7 @@
+## 0.0.8+1
+
+* sort gateway
+
 ## 0.0.8
 
 * gateway rename
