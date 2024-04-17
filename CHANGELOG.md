@@ -1,3 +1,7 @@
+## 0.0.8
+
+* gateway rename
+
 ## 0.0.7+5
 
 * iOS macOS version
