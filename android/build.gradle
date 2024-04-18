@@ -63,5 +63,5 @@ android {
 }
 
 dependencies {
-    implementation 'cloud.iothub:mobile:0.0.9'
+    implementation 'cloud.iothub:mobile:0.0.10'
 }

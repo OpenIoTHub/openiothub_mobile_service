@@ -1,3 +1,7 @@
+## 0.0.8+2
+
+* sort gateway and host
+
 ## 0.0.8+1
 
 * sort gateway
