@@ -1,3 +1,7 @@
+## 0.0.8+4
+
+* upgrade ios and macos lib
+
 ## 0.0.8+3
 
 * upgrade lib
