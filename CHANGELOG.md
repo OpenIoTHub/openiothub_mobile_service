@@ -1,3 +1,7 @@
+## 0.0.9
+
+* add grpc api
+
 ## 0.0.8+4
 
 * upgrade ios and macos lib
