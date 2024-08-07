@@ -1,3 +1,7 @@
+## 0.0.9+2
+
+* fix nil gateway bug
+
 ## 0.0.9+1
 
 * upgrade
