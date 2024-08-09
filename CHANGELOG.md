@@ -1,3 +1,7 @@
+## 0.0.9+3
+
+* flutter pub upgrade
+
 ## 0.0.9+2
 
 * fix nil gateway bug
