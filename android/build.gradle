@@ -1,3 +1,4 @@
+package android
 // The Android Gradle Plugin builds the native code with the Android NDK.
 
 group 'cloud.iothub.openiothub_mobile_service'
@@ -7,6 +8,7 @@ buildscript {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://maven.pkg.github.com/OpenIoTHub/gateway-go' }
     }
 
     dependencies {
@@ -19,6 +21,7 @@ rootProject.allprojects {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://maven.pkg.github.com/OpenIoTHub/gateway-go' }
     }
 }
 
@@ -63,5 +66,5 @@ android {
 }
 
 dependencies {
-    implementation 'cloud.iothub:mobile:0.0.14'
+    implementation 'cloud.iothub:mobile:0.0.15'
 }
