@@ -1,3 +1,7 @@
+## 0.0.11
+
+* android libs dir
+
 ## 0.0.10+3
 
 * new lib 0.0.15
